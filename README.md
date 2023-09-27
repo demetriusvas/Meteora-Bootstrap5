@@ -26,7 +26,17 @@ Demo - [Meteora](https://google.com/)
 * Modificou tema de cards prontos do Bootstrap para se adequarem ao projeto.
 
 :heavy_check_mark: Flexbox e ícones no Bootstrap
-<!-- * Desenvolvemos os primeiros passos do projeto Robotron 2000; -->
+* Integrar a biblioteca de ícones do Bootstrap, Bootstrap Icons, ao projeto;
+
+* Entendeu como encontrar e inserir ícones em um projeto na prática;
+
+* Conheceu classes do Bootstrap para definir espaçamento;
+
+* Entendeu na prática como alterar fontes de ícones e textos explorando a documentação do Bootstrap;
+
+* Conheceu e aplicou classes do Flexbox no Bootstrap ao projeto;
+
+* Finalizou o Wireframe do projeto Meteora.
 
 :heavy_check_mark: Inserindo estilos
 <!-- * Desenvolvemos os primeiros passos do projeto Robotron 2000; -->
