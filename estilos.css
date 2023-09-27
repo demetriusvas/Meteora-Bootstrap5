@@ -1,7 +1,21 @@
+:root{
+    --cor-cinza: #CCCCCC;
+    --cor-verde-fluorescente: #DAFF01;
+    --cor-roxo: #9353FF;
+}
+
 .texto-menor{
     font-size: 13px;
 }
 
 .divs-facilidades{
     width: 325px;
+}
+
+.btn-roxo{
+    background-color: var(--cor-roxo);
+}
+
+.texto-verde{
+    color: var(--cor-verde-fluorescente);
 }

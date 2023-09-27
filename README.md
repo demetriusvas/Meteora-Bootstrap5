@@ -8,6 +8,7 @@ Demo - [Meteora](https://google.com/)
 ## 🛠️ O que aprendi nesse curso:
 
 :heavy_check_mark: Avançando no Bootstrap
+
 * Integrar o Bootstrap a um projeto;
 
 * Analisar a documentação e replicar em um projeto componentes prontos que ela oferece;
@@ -17,6 +18,7 @@ Demo - [Meteora](https://google.com/)
 * Entender o contexto histórico no qual o Bootstrap foi criado.
 
 :heavy_check_mark: Breakpoints e Grid no Bootstrap
+
 * Aplicar sistema de Grids do Bootstrap para organizar elementos de forma responsiva;
 
 * Conhecer e aplicar classes do Bootstrap para definir altura e largura;
@@ -26,6 +28,7 @@ Demo - [Meteora](https://google.com/)
 * Modificou tema de cards prontos do Bootstrap para se adequarem ao projeto.
 
 :heavy_check_mark: Flexbox e ícones no Bootstrap
+
 * Integrar a biblioteca de ícones do Bootstrap, Bootstrap Icons, ao projeto;
 
 * Entendeu como encontrar e inserir ícones em um projeto na prática;
@@ -39,7 +42,12 @@ Demo - [Meteora](https://google.com/)
 * Finalizou o Wireframe do projeto Meteora.
 
 :heavy_check_mark: Inserindo estilos
-<!-- * Desenvolvemos os primeiros passos do projeto Robotron 2000; -->
+
+* Aplicar imagens de forma responsiva em um projeto unindo classes de Breakpoint e Display do Bootstrap;
+
+* Consultar o tema de cores que o Bootstrap oferece e implementar no projeto como background;
+
+* Analisar limitações do Bootstrap na oferta de cores, e resolveu a limitação recorrendo ao CSS.
 
 :heavy_check_mark: Acessibilidade com Bootstrap
 <!-- * Desenvolvemos os primeiros passos do projeto Robotron 2000; -->
