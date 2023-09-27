@@ -50,7 +50,14 @@ Demo - [Meteora](https://google.com/)
 * Analisar limitações do Bootstrap na oferta de cores, e resolveu a limitação recorrendo ao CSS.
 
 :heavy_check_mark: Acessibilidade com Bootstrap
-<!-- * Desenvolvemos os primeiros passos do projeto Robotron 2000; -->
+
+* Refatorar o código para tornar o projeto acessível para leitores de tela;
+
+* Conheceu a documentação de acessibilidade do Bootstrap;
+
+* Implementou classes de acessibilidade do Bootstrap no projeto;
+
+* Finalizou o projeto Meteora.
 
 
 
