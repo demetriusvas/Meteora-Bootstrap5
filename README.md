@@ -8,7 +8,13 @@ Demo - [Meteora](https://google.com/)
 ## 🛠️ O que aprendi nesse curso:
 
 :heavy_check_mark: Avançando no Bootstrap
-<!-- * Desenvolvemos os primeiros passos do projeto Robotron 2000; -->
+* Integrar o Bootstrap a um projeto;
+
+* Analisar a documentação e replicar em um projeto componentes prontos que ela oferece;
+
+* Conferir como modificar componentes através das classes do Bootstrap;
+
+* Entender o contexto histórico no qual o Bootstrap foi criado.
 
 :heavy_check_mark: Breakpoints e Grid no Bootstrap
 <!-- * Desenvolvemos os primeiros passos do projeto Robotron 2000; -->
