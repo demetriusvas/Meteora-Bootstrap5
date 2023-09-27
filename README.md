@@ -17,7 +17,13 @@ Demo - [Meteora](https://google.com/)
 * Entender o contexto histórico no qual o Bootstrap foi criado.
 
 :heavy_check_mark: Breakpoints e Grid no Bootstrap
-<!-- * Desenvolvemos os primeiros passos do projeto Robotron 2000; -->
+* Aplicar sistema de Grids do Bootstrap para organizar elementos de forma responsiva;
+
+* Conhecer e aplicar classes do Bootstrap para definir altura e largura;
+
+* Explorou a documentação do Bootstrap, e inseriu tema de cards prontos ao projeto;
+
+* Modificou tema de cards prontos do Bootstrap para se adequarem ao projeto.
 
 :heavy_check_mark: Flexbox e ícones no Bootstrap
 <!-- * Desenvolvemos os primeiros passos do projeto Robotron 2000; -->
